@@ -141,8 +141,8 @@ def run():
     data_dir = './data'
     runs_dir = './runs'
 
-    epochs = 1
-    batch_size = 8
+    epochs = 20
+    batch_size = 16
 
     model_path = './model/semantic_segmentation'
 
